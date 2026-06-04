@@ -1,21 +1,10 @@
-````md
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0E7490&center=true&vCenter=true&width=900&lines=BOSTECHIE+%7C+IT+Services+%26+Digital+Solutions;Technology.+Creativity.+Growth.;Building+Digital+Ecosystems+That+Drive+Business+Success" />
-
 # 🚀 BOSTECHIE
 
 ### Technology • Creativity • Growth
 
-Building Digital Ecosystems That Drive Business Success
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Development-0E7490?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Solutions-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Digital%20Marketing-06B6D4?style=for-the-badge" />
-</p>
-
-</div>
+![Software Development](https://img.shields.io/badge/Software%20Development-0E7490?style=for-the-badge)
+![AI Solutions](https://img.shields.io/badge/AI%20Solutions-0891B2?style=for-the-badge)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-06B6D4?style=for-the-badge)
 
 ---
 
@@ -25,192 +14,122 @@ BOSTECHIE is a technology and digital solutions company dedicated to helping bus
 
 We combine modern technology, design excellence, and data-driven marketing to create powerful digital experiences that help organizations succeed in an increasingly competitive marketplace.
 
-### 🎯 Our Mission
+### 🎯 Mission
 
-To empower businesses through technology-driven solutions that enhance efficiency, strengthen brand presence, and accelerate sustainable growth.
-
----
-
-## 🔥 Why Choose BOSTECHIE?
-
-### 💼 Business-Focused Approach
-We don't simply build websites or run campaigns — we create solutions aligned with your business objectives.
-
-### 🎨 Creative & Technical Expertise
-Our team combines creativity, technology, and marketing expertise to deliver impactful results.
-
-### ⚡ End-to-End Service
-From strategy and design to development, marketing, deployment, and support — everything is managed under one roof.
-
-### 📢 Transparent Communication
-Clear timelines, structured project management, and regular reporting ensure complete visibility throughout every project.
-
-### 🤝 Long-Term Partnership
-We focus on building lasting relationships and supporting our clients as their businesses evolve.
+Empowering businesses through technology-driven solutions that enhance efficiency, strengthen brand presence, and accelerate sustainable growth.
 
 ---
 
-# 💡 Our Services
-
-<table>
-<tr>
-<td width="50%">
+## 💡 Services
 
 ### 💻 Custom Software Solutions
-✔ Custom Software Development  
-✔ Business Automation  
-✔ Enterprise Applications  
-✔ Scalable Solutions  
+
+* Custom Software Development
+* Enterprise Applications
+* Business Automation
+* Scalable Solutions
 
 ### 🛒 Ecommerce Website Setup & Integration
-✔ Shopify Development  
-✔ WooCommerce Development  
-✔ Payment Gateway Integration  
-✔ Store Automation  
 
-### 🤖 AI-Powered CRM & ERP Systems
-✔ CRM Solutions  
-✔ ERP Integration  
-✔ AI Automation  
-✔ Business Intelligence  
+* Shopify Development
+* WooCommerce Development
+* Payment Gateway Integration
+* Store Automation
 
-</td>
+### 🤖 AI-Powered CRM & ERP
 
-<td width="50%">
+* CRM Solutions
+* ERP Integration
+* AI Automation
+* Business Intelligence
 
-### 🔒 IT Infrastructure & System Security
-✔ Cloud Infrastructure  
-✔ Security Solutions  
-✔ Server Management  
-✔ Network Optimization  
+### 🔒 IT Infrastructure & Security
 
-### 📈 Digital Marketing Strategy & Consultation
-✔ SEO  
-✔ Social Media Marketing  
-✔ Performance Marketing  
-✔ Lead Generation  
+* Cloud Infrastructure
+* Security Solutions
+* Server Management
+* Network Optimization
 
-### 🎨 Brand Identity Design & Product Photography
-✔ Logo Design  
-✔ Brand Identity  
-✔ Product Photography  
-✔ Creative Design  
+### 📈 Digital Marketing
 
-</td>
-</tr>
-</table>
+* SEO
+* Social Media Marketing
+* Performance Marketing
+* Lead Generation
+
+### 🎨 Brand Identity & Product Photography
+
+* Logo Design
+* Brand Identity
+* Product Photography
+* Creative Design
 
 ---
 
-# 🏢 Industries We Serve
+## 🏢 Industries We Serve
 
-```text
-🛍️ Retail & eCommerce
-🍽️ Hospitality & Restaurants
-🏭 Manufacturing
-🏥 Healthcare
-🎓 Education
-💼 Professional Services
-🚀 Startups & SMEs
-🏡 Home Décor & Lifestyle Brands
-````
+* 🛍️ Retail & eCommerce
+* 🍽️ Hospitality & Restaurants
+* 🏭 Manufacturing
+* 🏥 Healthcare
+* 🎓 Education
+* 💼 Professional Services
+* 🚀 Startups & SMEs
+* 🏡 Home Décor & Lifestyle Brands
 
 ---
 
-# 🛠️ Technologies We Work With
+## 🛠️ Technologies
 
-<div align="center">
+### Frontend
 
-### Frontend Development
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+### Backend
 
-### Backend Development
+![Backend](https://skillicons.dev/icons?i=nodejs,express,php,python,laravel)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,laravel" />
+### Database
 
-### Database Technologies
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
+![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase)
 
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+![DevOps](https://skillicons.dev/icons?i=aws,docker,linux,git,github)
 
-### Design Tools
+### Design
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+![Design](https://skillicons.dev/icons?i=figma,photoshop,illustrator)
 
-### 🛒 eCommerce Platforms
+### eCommerce
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
-
-</div>
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge\&logo=shopify\&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge\&logo=woocommerce\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
 ---
 
-# 📊 Business Principles
+## 🚀 Our Expertise
 
-```yaml
-Tailored Solutions:
-  Every project is customised to match
-  the client's industry, audience, and growth goals.
-
-Innovation:
-  Combining technology and creativity
-  to build impactful digital experiences.
-
-Quality:
-  Delivering scalable, secure, and future-ready solutions.
-
-Transparency:
-  Regular updates, reporting, and complete project visibility.
-
-Growth:
-  Every strategy is designed to support measurable business success.
-```
+* Custom Software Development
+* Shopify & eCommerce Solutions
+* AI-Powered CRM & ERP Systems
+* IT Infrastructure & Security
+* Digital Marketing & SEO
+* Brand Identity & Creative Design
 
 ---
 
-# 🚀 Our Expertise
-
-✔ Custom Software Development
-
-✔ Shopify & eCommerce Solutions
-
-✔ AI-Powered CRM & ERP Systems
-
-✔ IT Infrastructure & Security
-
-✔ Digital Marketing & SEO
-
-✔ Brand Identity & Creative Design
-
----
-
-# 🌍 Let's Build Something Exceptional Together
-
-<div align="center">
-
-### 📧 Contact Us
+## 📞 Contact
 
 🌐 https://www.bostechie.com
 
-📩 [info@bostechie.com](mailto:info@bostechie.com)
+📧 [info@bostechie.com](mailto:info@bostechie.com)
 
-📞 +91 9830021949
+📱 +91 9830021949
 
-📞 +91 9831120966
+📱 +91 9831120966
 
 ---
 
 ### ⭐ Technology. Creativity. Growth. ⭐
-
-<img src="https://komarev.com/ghpvc/?username=BOSTECHIE&style=for-the-badge&color=0E7490" />
-
-</div>
-```
