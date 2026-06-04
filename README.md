@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0E7490&center=true&vCenter=true&width=900&lines=BOSTECHIE+%7C+IT+Services+%26+Digital+Solutions;Technology.+Creativity.+Growth.;Building+Digital+Ecosystems+That+Drive+Business+Success" />
@@ -33,23 +34,18 @@ To empower businesses through technology-driven solutions that enhance efficienc
 ## 🔥 Why Choose BOSTECHIE?
 
 ### 💼 Business-Focused Approach
-
 We don't simply build websites or run campaigns — we create solutions aligned with your business objectives.
 
 ### 🎨 Creative & Technical Expertise
-
 Our team combines creativity, technology, and marketing expertise to deliver impactful results.
 
 ### ⚡ End-to-End Service
-
 From strategy and design to development, marketing, deployment, and support — everything is managed under one roof.
 
 ### 📢 Transparent Communication
-
 Clear timelines, structured project management, and regular reporting ensure complete visibility throughout every project.
 
 ### 🤝 Long-Term Partnership
-
 We focus on building lasting relationships and supporting our clients as their businesses evolve.
 
 ---
@@ -61,50 +57,44 @@ We focus on building lasting relationships and supporting our clients as their b
 <td width="50%">
 
 ### 💻 Custom Software Solutions
-
-* Custom Software Development
-* Business Automation
-* Enterprise Applications
-* Scalable Solutions
+✔ Custom Software Development  
+✔ Business Automation  
+✔ Enterprise Applications  
+✔ Scalable Solutions  
 
 ### 🛒 Ecommerce Website Setup & Integration
-
-* Shopify Development
-* WooCommerce Development
-* Payment Gateway Integration
-* Store Automation
+✔ Shopify Development  
+✔ WooCommerce Development  
+✔ Payment Gateway Integration  
+✔ Store Automation  
 
 ### 🤖 AI-Powered CRM & ERP Systems
-
-* CRM Solutions
-* ERP Integration
-* AI Automation
-* Business Intelligence
+✔ CRM Solutions  
+✔ ERP Integration  
+✔ AI Automation  
+✔ Business Intelligence  
 
 </td>
 
 <td width="50%">
 
 ### 🔒 IT Infrastructure & System Security
-
-* Cloud Infrastructure
-* Security Solutions
-* Server Management
-* Network Optimization
+✔ Cloud Infrastructure  
+✔ Security Solutions  
+✔ Server Management  
+✔ Network Optimization  
 
 ### 📈 Digital Marketing Strategy & Consultation
-
-* SEO
-* Social Media Marketing
-* Performance Marketing
-* Lead Generation
+✔ SEO  
+✔ Social Media Marketing  
+✔ Performance Marketing  
+✔ Lead Generation  
 
 ### 🎨 Brand Identity Design & Product Photography
-
-* Logo Design
-* Brand Identity
-* Product Photography
-* Creative Design
+✔ Logo Design  
+✔ Brand Identity  
+✔ Product Photography  
+✔ Creative Design  
 
 </td>
 </tr>
@@ -123,7 +113,7 @@ We focus on building lasting relationships and supporting our clients as their b
 💼 Professional Services
 🚀 Startups & SMEs
 🏡 Home Décor & Lifestyle Brands
-```
+````
 
 ---
 
@@ -186,25 +176,19 @@ Growth:
 
 ---
 
-# 📈 GitHub Stats
+# 🚀 Our Expertise
 
-<div align="center">
+✔ Custom Software Development
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+✔ Shopify & eCommerce Solutions
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+✔ AI-Powered CRM & ERP Systems
 
-</div>
+✔ IT Infrastructure & Security
 
----
+✔ Digital Marketing & SEO
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
+✔ Brand Identity & Creative Design
 
 ---
 
@@ -226,6 +210,7 @@ Growth:
 
 ### ⭐ Technology. Creativity. Growth. ⭐
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0E7490" />
+<img src="https://komarev.com/ghpvc/?username=BOSTECHIE&style=for-the-badge&color=0E7490" />
 
 </div>
+```
