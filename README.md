@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 BOSTECHIE
+#  BOSTECHIE
 
 ### Technology • Creativity • Growth
 
