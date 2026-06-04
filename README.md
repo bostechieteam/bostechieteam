@@ -1,10 +1,10 @@
-# 🚀 BOSTECHIE
-
 <div align="center">
 
-### Technology • Creativity • Growth
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:06B6D4&height=220&section=header&text=BOSTECHIE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20•%20Creativity%20•%20Growth&descAlignY=58" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Digital+Ecosystems;Custom+Software+Solutions;AI+Powered+Business+Systems;Digital+Marketing+%26+Branding;Technology+That+Drives+Growth" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Digital+Ecosystems;Custom+Software+Solutions;AI+Powered+Business+Systems;Digital+Marketing+%26+Branding;Technology+That+Drives+Growth" />
 
 <br><br>
 
@@ -22,26 +22,35 @@
 
 # 🚀 About BOSTECHIE
 
+<table>
+<tr>
+
+<td width="55%">
+
+### Building Future-Ready Digital Experiences
+
 BOSTECHIE is a modern technology and digital solutions company focused on helping businesses scale through innovation, automation, creativity, and strategic digital transformation.
 
 We craft high-performance websites, enterprise software, AI-powered systems, eCommerce platforms, and data-driven marketing solutions that help brands grow faster in a competitive digital world.
 
----
+<br>
 
-## ✨ Core Focus
+### ✨ Core Focus
 
-* 💻 Custom Software Development
-* 🤖 AI-Powered Business Systems
-* 🛒 eCommerce Development
-* 📈 Digital Marketing & SEO
-* 🔒 Cloud & IT Infrastructure
-* 🎨 Branding & Creative Solutions
+- 💻 Custom Software Development  
+- 🤖 AI-Powered Business Systems  
+- 🛒 eCommerce Development  
+- 📈 Digital Marketing & SEO  
+- 🔒 Cloud & IT Infrastructure  
+- 🎨 Branding & Creative Solutions  
 
----
+</td>
 
-## 🚀 Innovation & Growth
+<td width="45%" align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7490,100:06B6D4&height=180&section=header&text=BOSTECHIE&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Technology%20•%20Creativity%20•%20Growth&descAlignY=70" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/🚀%20Innovation%20Driven-0E7490?style=for-the-badge" />
 
@@ -61,94 +70,115 @@ We craft high-performance websites, enterprise software, AI-powered systems, eCo
 
 <img src="https://img.shields.io/badge/🌍%20Global%20Technology%20Partner-111827?style=for-the-badge" />
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 💡 Our Services
 
-| Service                 | Solutions                                              |
-| ----------------------- | ------------------------------------------------------ |
+<div align="center">
+
+| Service | Solutions |
+|---|---|
 | 💻 Software Development | Enterprise Apps • Business Automation • SaaS Platforms |
-| 🛒 eCommerce Solutions  | Shopify • WooCommerce • Payment Integration            |
-| 🤖 AI & Automation      | AI CRM • ERP Systems • Workflow Automation             |
-| 🔒 IT Infrastructure    | Cloud Hosting • Security • Server Management           |
-| 📈 Marketing Solutions  | SEO • Social Media • Performance Marketing             |
-| 🎨 Branding & Creative  | Logo Design • Product Photography • Brand Identity     |
+| 🛒 eCommerce Solutions | Shopify • WooCommerce • Payment Integration |
+| 🤖 AI & Automation | AI CRM • ERP Systems • Workflow Automation |
+| 🔒 IT Infrastructure | Cloud Hosting • Security • Server Management |
+| 📈 Marketing Solutions | SEO • Social Media • Performance Marketing |
+| 🎨 Branding & Creative | Logo Design • Product Photography • Brand Identity |
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎨 Moms Fine Art
+<div align="center">
 
-Premium art & creative showcase platform with elegant UI/UX design.
+<table>
+<tr>
 
-🔗 https://momsfineart.com/
+<td width="33%" align="center">
 
----
+<a href="https://momsfineart.com/" target="_blank">
 
-## 🏥 Dr. Prafullata
+<img src="https://img.shields.io/badge/View-Website-0E7490?style=for-the-badge" />
+
+### 🎨 Moms Fine Art
+
+Elegant art & creative showcase platform with premium UI/UX experience.
+
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<a href="https://drprafullata.org/" target="_blank">
+
+<img src="https://img.shields.io/badge/View-Website-0891B2?style=for-the-badge" />
+
+### 🏥 Dr. Prafullata
 
 Professional healthcare and medical consultation website with responsive architecture.
 
-🔗 https://drprafullata.org/
+</a>
 
----
+</td>
 
-## 🧵 The Weavers Nest
+<td width="33%" align="center">
+
+<a href="https://www.theweaversnest.com/" target="_blank">
+
+<img src="https://img.shields.io/badge/View-Website-06B6D4?style=for-the-badge" />
+
+### 🧵 The Weavers Nest
 
 Modern handcrafted textile & lifestyle eCommerce platform.
 
-🔗 https://www.theweaversnest.com/
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
 # 🛠️ Tech Stack
 
-## Frontend Technologies
-
 <div align="center">
+
+### Frontend Technologies
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
-</div>
+<br><br>
 
----
-
-## Backend Technologies
-
-<div align="center">
+### Backend Technologies
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,laravel" />
 
-</div>
+<br><br>
 
----
-
-## Database Technologies
-
-<div align="center">
+### Database Technologies
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
 
-</div>
+<br><br>
 
----
-
-## DevOps & Cloud
-
-<div align="center">
+### DevOps & Cloud
 
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel" />
 
-</div>
+<br><br>
 
----
-
-## Design & Creative Tools
-
-<div align="center">
+### Design & Creative Tools
 
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 
@@ -158,25 +188,26 @@ Modern handcrafted textile & lifestyle eCommerce platform.
 
 # 🏢 Industries We Serve
 
-* 🛍️ Retail & eCommerce
-* 🍽️ Hospitality & Restaurants
-* 🏭 Manufacturing
-* 🏥 Healthcare
-* 🎓 Education
-* 💼 Professional Services
-* 🚀 Startups & SMEs
-* 🏡 Lifestyle & Home Décor Brands
+<div align="center">
+
+| 🛍️ Retail | 🍽️ Hospitality | 🏭 Manufacturing | 🏥 Healthcare |
+|---|---|---|---|
+| 🎓 Education | 💼 Professional Services | 🚀 Startups | 🏡 Lifestyle Brands |
+
+</div>
 
 ---
 
 # ⚡ Why Choose Us?
 
-* ✅ Business-Focused Approach
-* ✅ Creative & Technical Expertise
-* ✅ Scalable Digital Solutions
-* ✅ Transparent Communication
-* ✅ Long-Term Partnership
-* ✅ End-to-End Development
+<div align="center">
+
+| ✅ Business Focused | ✅ Creative + Technical Expertise |
+|---|---|
+| ✅ Scalable Solutions | ✅ Transparent Communication |
+| ✅ Long-Term Partnership | ✅ End-to-End Development |
+
+</div>
 
 ---
 
@@ -184,7 +215,11 @@ Modern handcrafted textile & lifestyle eCommerce platform.
 
 <div align="center">
 
-🎯 Tailored Solutions • 🚀 Innovation Driven • 🏆 Quality Focused • 📈 Growth Oriented • 🤝 Long-Term Partnerships
+🎯 Tailored Solutions &nbsp; • &nbsp;
+🚀 Innovation Driven &nbsp; • &nbsp;
+🏆 Quality Focused &nbsp; • &nbsp;
+📈 Growth Oriented &nbsp; • &nbsp;
+🤝 Long-Term Partnerships
 
 </div>
 
@@ -196,14 +231,21 @@ Modern handcrafted textile & lifestyle eCommerce platform.
 
 ### Let's Build Something Exceptional Together
 
-🌐 Website
-http://www.bostechie.com
+<br>
 
-📧 Email
+🌐 **Website**  
+[www.bostechie.com](http://www.bostechie.com)
+
+📧 **Email**  
 [info@bostechie.com](mailto:info@bostechie.com)
 
-📱 Phone
-+91 9830021949
+📱 **Phone**  
++91 9830021949  
 +91 9831120966
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:06B6D4&height=120&section=footer" />
+
 </div>
+```
