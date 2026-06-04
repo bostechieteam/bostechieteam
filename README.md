@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:06B6D4&height=220&section=header&text=BOSTECHIE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20•%20Creativity%20•%20Growth&descAlignY=58" />
@@ -25,7 +24,6 @@
 
 <table>
 <tr>
-
 <td width="55%">
 
 ### Building Future-Ready Digital Experiences
@@ -47,22 +45,13 @@ We craft high-performance websites, enterprise software, AI-powered systems, eCo
 
 <td width="45%" align="center">
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=bostechie&data=followers,repositories,stars,commits&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=bostechie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Innovation-Driven-0E7490?style=for-the-badge&logo=rocket&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Global-Digital%20Solutions-06B6D4?style=for-the-badge&logo=icloud&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI%20Powered-Business%20Systems-0891B2?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bostechie&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </td>
-
 </tr>
 </table>
 
@@ -239,4 +228,3 @@ Modern handcrafted textile & lifestyle eCommerce platform.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:06B6D4&height=120&section=footer" />
 
 </div>
-```
