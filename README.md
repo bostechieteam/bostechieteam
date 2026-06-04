@@ -1,3 +1,4 @@
+```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:06B6D4&height=220&section=header&text=BOSTECHIE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20•%20Creativity%20•%20Growth&descAlignY=58" />
@@ -8,7 +9,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Software%20Development-0E7490?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Development-0E7490?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Solutions-0891B2?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Digital%20Marketing-06B6D4?style=for-the-badge&logo=googleads&logoColor=white" />
 
@@ -24,6 +25,7 @@
 
 <table>
 <tr>
+
 <td width="55%">
 
 ### Building Future-Ready Digital Experiences
@@ -32,26 +34,45 @@ BOSTECHIE is a modern technology and digital solutions company focused on helpin
 
 We craft high-performance websites, enterprise software, AI-powered systems, eCommerce platforms, and data-driven marketing solutions that help brands grow faster in a competitive digital world.
 
+<br>
+
 ### ✨ Core Focus
 
-- 💻 Custom Software Development
-- 🤖 AI-Powered Business Systems
-- 🛒 eCommerce Development
-- 📈 Digital Marketing & SEO
-- 🔒 Cloud & IT Infrastructure
-- 🎨 Branding & Creative Solutions
+- 💻 Custom Software Development  
+- 🤖 AI-Powered Business Systems  
+- 🛒 eCommerce Development  
+- 📈 Digital Marketing & SEO  
+- 🔒 Cloud & IT Infrastructure  
+- 🎨 Branding & Creative Solutions  
 
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bostechie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7490,100:06B6D4&height=180&section=header&text=BOSTECHIE&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Technology%20•%20Creativity%20•%20Growth&descAlignY=70" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🚀%20Innovation%20Driven-0E7490?style=for-the-badge" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bostechie&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://img.shields.io/badge/🤖%20AI%20Powered%20Solutions-0891B2?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/🛒%20eCommerce%20Experts-06B6D4?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/📈%20Digital%20Growth-0F172A?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/🌍%20Global%20Technology%20Partner-111827?style=for-the-badge" />
 
 </td>
+
 </tr>
 </table>
 
@@ -89,7 +110,7 @@ We craft high-performance websites, enterprise software, AI-powered systems, eCo
 
 ### 🎨 Moms Fine Art
 
-Elegant art & creative showcase platform with premium UI/UX design experience.
+Elegant art & creative showcase platform with premium UI/UX experience.
 
 </a>
 
@@ -228,3 +249,4 @@ Modern handcrafted textile & lifestyle eCommerce platform.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:06B6D4&height=120&section=footer" />
 
 </div>
+```
