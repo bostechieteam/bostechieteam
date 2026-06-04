@@ -1,130 +1,146 @@
 <div align="center">
 
-#  BOSTECHIE
-
-### Technology • Creativity • Growth
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=0E7490&center=true&vCenter=true&width=900&lines=Building+Digital+Ecosystems;Custom+Software+Solutions;AI+Powered+Business+Systems;Digital+Marketing+%26+Branding;Technology+That+Drives+Growth" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:06B6D4&height=220&section=header&text=BOSTECHIE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20•%20Creativity%20•%20Growth&descAlignY=58" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Software%20Development-0E7490?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Solutions-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Digital%20Marketing-06B6D4?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 About BOSTECHIE
-
-BOSTECHIE is a technology and digital solutions company dedicated to helping businesses grow through innovation, creativity, and strategic execution.
-
-We combine modern technology, design excellence, and data-driven marketing to create powerful digital experiences that help organizations succeed in an increasingly competitive marketplace.
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Our Mission
-
-Empowering businesses through technology-driven solutions that enhance efficiency, strengthen brand presence, and accelerate sustainable growth.
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 Our Services
-
-### 💻 Custom Software Solutions
-
-Custom Software Development • Enterprise Applications • Business Automation • Scalable Solutions
-
-### 🛒 Ecommerce Website Setup & Integration
-
-Shopify Development • WooCommerce Development • Payment Gateway Integration • Store Automation
-
-### 🤖 AI-Powered CRM & ERP Systems
-
-CRM Solutions • ERP Integration • AI Automation • Business Intelligence
-
-### 🔒 IT Infrastructure & Security
-
-Cloud Infrastructure • Security Solutions • Server Management • Network Optimization
-
-### 📈 Digital Marketing Strategy
-
-SEO • Social Media Marketing • Performance Marketing • Lead Generation
-
-### 🎨 Brand Identity & Product Photography
-
-Logo Design • Brand Identity • Product Photography • Creative Design
-
-</div>
-
----
-
-<div align="center">
-
-## 🏢 Industries We Serve
-
-🛍️ Retail & eCommerce
-
-🍽️ Hospitality & Restaurants
-
-🏭 Manufacturing
-
-🏥 Healthcare
-
-🎓 Education
-
-💼 Professional Services
-
-🚀 Startups & SMEs
-
-🏡 Home Décor & Lifestyle Brands
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Why Choose BOSTECHIE?
-
-✅ Business-Focused Approach
-
-✅ Creative & Technical Expertise
-
-✅ End-to-End Service
-
-✅ Transparent Communication
-
-✅ Long-Term Partnership
-
-✅ Tailored Growth Solutions
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Technologies We Work With
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Digital+Ecosystems;Custom+Software+Solutions;AI+Powered+Business+Systems;Digital+Marketing+%26+Branding;Technology+That+Drives+Growth" />
 
 <br><br>
 
-### Backend Development
+<img src="https://img.shields.io/badge/Software%20Development-0E7490?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Solutions-0891B2?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Digital%20Marketing-06B6D4?style=for-the-badge&logo=googleads&logoColor=white" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=bostechie&style=for-the-badge&color=0E7490" />
+
+</div>
+
+---
+
+# 🚀 About BOSTECHIE
+
+<table>
+<tr>
+<td width="55%">
+
+### Building Future-Ready Digital Experiences
+
+BOSTECHIE is a modern technology and digital solutions company focused on helping businesses scale through innovation, automation, creativity, and strategic digital transformation.
+
+We craft high-performance websites, enterprise software, AI-powered systems, eCommerce platforms, and data-driven marketing solutions that help brands grow faster in a competitive digital world.
+
+### ✨ Core Focus
+
+- 💻 Custom Software Development
+- 🤖 AI-Powered Business Systems
+- 🛒 eCommerce Development
+- 📈 Digital Marketing & SEO
+- 🔒 Cloud & IT Infrastructure
+- 🎨 Branding & Creative Solutions
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bostechie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bostechie&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💡 Our Services
+
+<div align="center">
+
+| Service | Solutions |
+|---|---|
+| 💻 Software Development | Enterprise Apps • Business Automation • SaaS Platforms |
+| 🛒 eCommerce Solutions | Shopify • WooCommerce • Payment Integration |
+| 🤖 AI & Automation | AI CRM • ERP Systems • Workflow Automation |
+| 🔒 IT Infrastructure | Cloud Hosting • Security • Server Management |
+| 📈 Marketing Solutions | SEO • Social Media • Performance Marketing |
+| 🎨 Branding & Creative | Logo Design • Product Photography • Brand Identity |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<a href="https://momsfineart.com/" target="_blank">
+
+<img src="https://img.shields.io/badge/View-Website-0E7490?style=for-the-badge" />
+
+### 🎨 Moms Fine Art
+
+Elegant art & creative showcase platform with premium UI/UX design experience.
+
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<a href="https://drprafullata.org/" target="_blank">
+
+<img src="https://img.shields.io/badge/View-Website-0891B2?style=for-the-badge" />
+
+### 🏥 Dr. Prafullata
+
+Professional healthcare and medical consultation website with responsive architecture.
+
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<a href="https://www.theweaversnest.com/" target="_blank">
+
+<img src="https://img.shields.io/badge/View-Website-06B6D4?style=for-the-badge" />
+
+### 🧵 The Weavers Nest
+
+Modern handcrafted textile & lifestyle eCommerce platform.
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+
+<br><br>
+
+### Backend Technologies
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,laravel" />
 
@@ -136,128 +152,79 @@ Logo Design • Brand Identity • Product Photography • Creative Design
 
 <br><br>
 
-### Cloud & DevOps
+### DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel" />
 
 <br><br>
 
-### Design Tools
+### Design & Creative Tools
 
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 
-<br><br>
+</div>
 
-### 🛒 eCommerce Platforms
+---
 
-<img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+# 🏢 Industries We Serve
+
+<div align="center">
+
+| 🛍️ Retail | 🍽️ Hospitality | 🏭 Manufacturing | 🏥 Healthcare |
+|---|---|---|---|
+| 🎓 Education | 💼 Professional Services | 🚀 Startups | 🏡 Lifestyle Brands |
 
 </div>
 
 ---
 
+# ⚡ Why Choose Us?
+
 <div align="center">
 
-## 🚀 Our Works
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🎨 Moms Fine Art
-
-Premium art & creative showcase platform with elegant UI/UX experience.
-
-🔗 https://momsfineart.com/
-
-</td>
-
-<td width="33%" align="center">
-
-### 🏥 Dr. Prafullata
-
-Professional healthcare and medical consultation website with responsive design.
-
-🔗 https://drprafullata.org/
-
-</td>
-
-<td width="33%" align="center">
-
-### 🧵 The Weavers Nest
-
-Modern handcrafted textile & lifestyle eCommerce experience.
-
-🔗 https://www.theweaversnest.com/
-
-</td>
-</tr>
-</table>
+| ✅ Business Focused | ✅ Creative + Technical Expertise |
+|---|---|
+| ✅ Scalable Solutions | ✅ Transparent Communication |
+| ✅ Long-Term Partnership | ✅ End-to-End Development |
 
 </div>
 
 ---
 
+# 📊 Business Principles
+
 <div align="center">
 
-## 📊 Business Principles
-
-🎯 Tailored Solutions
-
-🚀 Innovation Driven
-
-🏆 Quality Focused
-
-📢 Transparent Communication
-
-📈 Measurable Growth
-
+🎯 Tailored Solutions &nbsp; • &nbsp;
+🚀 Innovation Driven &nbsp; • &nbsp;
+🏆 Quality Focused &nbsp; • &nbsp;
+📈 Growth Oriented &nbsp; • &nbsp;
 🤝 Long-Term Partnerships
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🚀 Our Expertise
-
-💻 Custom Software Development
-
-🛒 Shopify & eCommerce Solutions
-
-🤖 AI-Powered CRM & ERP Systems
-
-🔒 IT Infrastructure & Security
-
-📈 Digital Marketing & SEO
-
-🎨 Brand Identity & Creative Design
-
-</div>
-
----
+# 📞 Connect With Us
 
 <div align="center">
-
-## 📞 Contact Us
 
 ### Let's Build Something Exceptional Together
 
-🌐 [www.bostechie.com](http://www.bostechie.com)
+<br>
 
-📧 [info@bostechie.com](mailto:info@bostechie.com)
+🌐 **Website**  
+[www.bostechie.com](http://www.bostechie.com)
 
-📱 +91 9830021949
+📧 **Email**  
+[info@bostechie.com](mailto:info@bostechie.com)
 
-📱 +91 9831120966
+📱 **Phone**  
++91 9830021949  
++91 9831120966
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bostechie&style=for-the-badge&color=0E7490" />
-
-### ⭐ Technology. Creativity. Growth. ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:06B6D4&height=120&section=footer" />
 
 </div>
