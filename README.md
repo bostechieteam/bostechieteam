@@ -33,18 +33,23 @@ To empower businesses through technology-driven solutions that enhance efficienc
 ## 🔥 Why Choose BOSTECHIE?
 
 ### 💼 Business-Focused Approach
+
 We don't simply build websites or run campaigns — we create solutions aligned with your business objectives.
 
 ### 🎨 Creative & Technical Expertise
+
 Our team combines creativity, technology, and marketing expertise to deliver impactful results.
 
 ### ⚡ End-to-End Service
+
 From strategy and design to development, marketing, deployment, and support — everything is managed under one roof.
 
 ### 📢 Transparent Communication
+
 Clear timelines, structured project management, and regular reporting ensure complete visibility throughout every project.
 
 ### 🤝 Long-Term Partnership
+
 We focus on building lasting relationships and supporting our clients as their businesses evolve.
 
 ---
@@ -56,26 +61,50 @@ We focus on building lasting relationships and supporting our clients as their b
 <td width="50%">
 
 ### 💻 Custom Software Solutions
-We design, develop, and scale custom software solutions built specifically around your business processes, goals, and future growth.
+
+* Custom Software Development
+* Business Automation
+* Enterprise Applications
+* Scalable Solutions
 
 ### 🛒 Ecommerce Website Setup & Integration
-Powerful, secure, and scalable ecommerce solutions designed to convert visitors into loyal customers.
+
+* Shopify Development
+* WooCommerce Development
+* Payment Gateway Integration
+* Store Automation
 
 ### 🤖 AI-Powered CRM & ERP Systems
-Streamline operations, centralize data, and improve decision-making with intelligent AI-driven CRM and ERP solutions.
+
+* CRM Solutions
+* ERP Integration
+* AI Automation
+* Business Intelligence
 
 </td>
 
 <td width="50%">
 
 ### 🔒 IT Infrastructure & System Security
-Secure, scalable, and high-performance infrastructure designed for long-term business success.
+
+* Cloud Infrastructure
+* Security Solutions
+* Server Management
+* Network Optimization
 
 ### 📈 Digital Marketing Strategy & Consultation
-Strategic planning and marketing roadmaps that generate sustainable business growth.
+
+* SEO
+* Social Media Marketing
+* Performance Marketing
+* Lead Generation
 
 ### 🎨 Brand Identity Design & Product Photography
-Create memorable brands, attract customers, and increase engagement through professional visual storytelling.
+
+* Logo Design
+* Brand Identity
+* Product Photography
+* Creative Design
 
 </td>
 </tr>
@@ -125,11 +154,9 @@ Create memorable brands, attract customers, and increase engagement through prof
 ### 🛒 eCommerce Platforms
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="60" alt="Shopify"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 </div>
@@ -163,19 +190,19 @@ Growth:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BOSTECHIE&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOSTECHIE&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BOSTECHIE&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -189,7 +216,7 @@ Growth:
 
 🌐 https://www.bostechie.com
 
-📩 info@bostechie.com
+📩 [info@bostechie.com](mailto:info@bostechie.com)
 
 📞 +91 9830021949
 
@@ -199,6 +226,6 @@ Growth:
 
 ### ⭐ Technology. Creativity. Growth. ⭐
 
-<img src="https://komarev.com/ghpvc/?username=BOSTECHIE&style=for-the-badge&color=0E7490" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0E7490" />
 
 </div>
